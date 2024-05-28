@@ -1,0 +1,3 @@
+Typescript is a strongly typed language where we specify the types of data we are using and that helps to self documenmt and enforce our code 
+
+typescript is a statically typed language meaning types are checked in complied time but javascript types are checked in run time 

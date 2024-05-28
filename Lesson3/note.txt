@@ -1,0 +1,8 @@
+We will be covering objects, arrays, tuples, and enums
+
+
+Arrays
+an array can have a union type which musst be in a bracket when specifying
+
+Tuples
+if you want to be strict in defining something that is locked in to a type in a specific element location and a specific lenght of an array you use tuple 
