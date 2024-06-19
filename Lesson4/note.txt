@@ -1,0 +1,9 @@
+type aliases _> this is like declaring an initial variable of types in typescript in orderr to use them in other places of the code 
+
+Literal types _> this assigns a fixed type of string or number to it's variable so that the computer is expecting that specific fixed type of string or number, anything otherwise will throw back an error at complile time. 
+    Example : let myName: 'Niyi'
+i can redeclare myName variablebut with the value or type 'Niyi' nothing else.
+
+Function _> any function that would have a side effect that would not have an explicit return should be a void type of data
+
+We covered Functions, Literal types, Type aliases, Never type

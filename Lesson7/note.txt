@@ -1,0 +1,1 @@
+Index signatures _> this are useful when you are creating an object but you dont know the exact names of the object keys but you do know the shape of the objects,  and you can declare the type of the keys or the type of the values. typescript requires an index  signature when you attempt to access an object property dynamically.

@@ -70,7 +70,7 @@ console.log(greetGutarist(jp))
 
 // Enums
 enum Grade {
-  U = 1,
+  U,
   D,
   C,
   B,
